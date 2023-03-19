@@ -13,3 +13,4 @@ flagged
 # Ignore mlruns
 mlruns
 data
+.venv
