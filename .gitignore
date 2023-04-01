@@ -1,5 +1,5 @@
 # Ignore .txt
-*.txt
+# *.txt
 # Ignore .log
 *.log
 # Ignore .pyc
