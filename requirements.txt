@@ -1,3 +1,4 @@
+ipvkernel
 numpy
 pandas
 scikit-learn
@@ -9,3 +10,4 @@ pydot
 graphviz
 pycaret
 mlflow
+gradio
