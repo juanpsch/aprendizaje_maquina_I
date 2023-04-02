@@ -11,3 +11,7 @@ graphviz
 pycaret
 mlflow
 gradio
+pyshp
+geopandas
+pyarrow
+fastparquet
